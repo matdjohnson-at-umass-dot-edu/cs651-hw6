@@ -1,0 +1,5 @@
+torch
+torchprofile
+matplotlib
+numpy<2
+scikit-learn
